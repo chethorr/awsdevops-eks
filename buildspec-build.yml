@@ -6,7 +6,7 @@ version: 0.2
 env:
   variables:
     # ECR URI where Docker image will be pushed
-    IMAGE_URI: "494883138516.dkr.ecr.us-east-1.amazonaws.com/eks-aws-devops"
+    IMAGE_URI: "xxxxxxxxxxxxxxxxxxxxxxx ecr repo uri"
   exported-variables:
     # Variables that will be shared with downstream phases or pipelines
     - IMAGE_URI

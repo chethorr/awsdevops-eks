@@ -8,7 +8,7 @@ env:
     # Name of the EKS cluster
     EKS_CLUSTER_NAME: "cheks"
     # IAM Role ARN used to assume access to EKS for kubectl
-    EKS_KUBECTL_ROLE_ARN: "arn:aws:iam::494883138516:role/service-role/codebuild-deploy-eks-devops-699-service-role"
+    EKS_KUBECTL_ROLE_ARN: "arn:aws:iam::xxxxxxxxx:role/service-role/xxxxxxxxxxxxxxxx"
 
 phases:
   install:
